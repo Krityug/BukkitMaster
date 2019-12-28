@@ -1,0 +1,7 @@
+name: BukkitMaster
+version: ${project.version}
+main: bukkit.org.master.BukkitMaster
+api-version: 1.13
+authors: [HypexMC]
+description: Advanced core system developed to hook into game modes created with foundation
+website: https://spigotmc.org
